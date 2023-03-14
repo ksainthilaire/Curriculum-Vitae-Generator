@@ -2,7 +2,7 @@
     "firstName": "Keny",
     "lastName": "SAINT HILAIRE",
     "fullName": "SAINT HILAIRE Keny",
-    "address":["23 AVENUE CLEMENT ADER", "78190 Trappes"],
+    "address":["33 Bd Carnot", "92340 Bourg-la-Reine"],
     "phoneNumber": "+33 768501670",
     "mail": "sainthilaire.keny@gmail.com",
     "site": "https://sainthilaire.paris",
@@ -30,7 +30,7 @@
     ],
     "career": [
         {
-            "name": "Électricité de France", 
+            "name": "Électricité de France (Stage)", 
             "role": "Développement web",
             "dates": ["Juillet 2020", "Février 2021"], 
             "description": [
@@ -40,7 +40,7 @@
             "tags": ["Golang", "Echo Framework", "React JS", "Jira", "Git"]
         },
         {
-            "name": "Airweb",
+            "name": "Airweb (CDI)",
             "role": "Développement Kotlin - Android",
             "dates": ["Avril 2022", "-Maintenant"],
             "description": [
@@ -51,30 +51,23 @@
                 "Écriture des tests unitaires avec Expresso",
                 "CI/CD"
             ],
-            "tags": ["Clean architecture", "MVI3, Kotlin", "Flurry", "Lottie", "Retrofit", "Glide", "Room", "Databinding", "Git", "Gitflow", "Expresso"]
+            "tags": ["Clean architecture", "MVI", "Kotlin", "Flurry", "Lottie", "Retrofit", "Glide", "Room", "Databinding", "Git", "Gitflow", "Expresso"]
+        },
+        {
+            "name": "Malt (Freelance)",
+            "role": "Développement Kotlin - Android",
+            "dates": ["Octobre 2022", "Février 2023"],
+            "description": [
+                "Développement d'une application android from scratch (Magicpark)",
+                "Maintenance d'une application (Unipile)"
+            ],
+            "tags": ["Hexagonal architecture", "MVVM", "Kotlin", "Flurry", "Lottie", "Ionic Framework", "Glide", "Room", "Capacitor"]
         }
     ],
     "volunteering": [
         {"name": "Croix-Rouge française", "description": ""}
     ],
     "projects": [
-
-        {
-            "url": "https://github.com/ksainthilaire/swifty_companion",
-            "icon": "default",
-            "name": "Swifty-companion",
-            "description": ["Une application qui permet de rechercher et afficher des informations sur les élèves de l'école 42, en interagissant avec l'<a href=\"https://api.intra.42.fr/apidoc\">API REST 42</a>."],
-            "dates": [],
-            "tags": ["Kotlin", "Retrofit", "API Rest", "Dagger", "MVVM", "Clean architecture"]
-        },
-
-        {
-            "url": "https://github.com/ksainthilaire/Dogtinder_app",
-            "name": "Corewar", 
-            "description": ["Création d'un programme d'assemblage, convertissant du Red Code en bytecode, et d'une VM interprétant ce bytecode. Le but de ce projet est de créer un jeu similaire à <a href=\"https://fr.wikipedia.org/wiki/Core_War\">Core War</a>"], 
-            "dates": [],
-            "tags": ["C", "Red Code"]
-        }
     ],
     "hobbies": [
         "Concours de cybersécurité en ligne",

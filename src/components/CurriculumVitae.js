@@ -163,7 +163,8 @@ export default class CurriculumVitae extends React.Component {
               </div>
 
               <div className="section-wrapper highlight">
-                <span className="section-title">PROJETS</span>
+                {//<span className="section-title">PROJETS</span>
+  }
 
                 <div className="section-body left-border">
                   {fr.projects.map((project, key) => {
